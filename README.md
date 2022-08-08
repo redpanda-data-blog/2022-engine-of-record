@@ -4,7 +4,7 @@ Learn how to integreate Redpanda, BigQuery, and Apache Spark to build a real-tim
 
 Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/) to put this demo into action. 
 
-—-------
+-------------
 
 ## About Redpanda 
 
