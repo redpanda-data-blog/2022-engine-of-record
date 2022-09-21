@@ -2,7 +2,7 @@
 
 Learn how to integreate Redpanda, BigQuery, and Apache Spark to build a real-time engine of record. 
 
-Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/) to put this demo into action. 
+Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/engine-of-record-apache-spark-bigquery) to put this demo into action. 
 
 -------------
 
